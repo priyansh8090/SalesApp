@@ -11,7 +11,7 @@ import io.appium.java_client.android.AndroidDriver;
 
 public class LoginPage extends BaseSales {
 	
-	AndroidDriver driver;
+	//AndroidDriver driver;
 	
 	public void user_navigate_to_the_application() throws InterruptedException, MalformedURLException {
 		
